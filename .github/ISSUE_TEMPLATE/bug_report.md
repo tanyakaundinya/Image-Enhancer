@@ -10,9 +10,10 @@ assignees: ''
 Provide a clear and concise description of the issue.
 
 ## Steps to Reproduce
-1.
-2.
-3.
+1. Open the application.
+2. Navigate to ...
+3. Perform ...
+4. Observe the issue.
 
 ## Expected Behavior
 Describe what should happen.
